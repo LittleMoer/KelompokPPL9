@@ -1,0 +1,1 @@
+<a href="/parse">test</a><?php /**PATH C:\xampp\htdocs\ppl_kelompok\resources\views/test.blade.php ENDPATH**/ ?>
